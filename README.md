@@ -28,6 +28,9 @@ The user interface of Chat App Real-time is designed to be intuitive and easy to
 - **Emoji support**: Allows users to include emojis in their messages.
 - **Notifications**: Real-time notifications for new messages.
 
+## Live Demo
+Check out the live demo of the Chat App Real-time: [Live Demo](https://devashychatapp.netlify.app/)
+
 ## Getting Started
 To get started with Chat App Real-time, follow these steps:
 
